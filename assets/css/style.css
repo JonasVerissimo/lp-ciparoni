@@ -8,7 +8,7 @@ body {
 }
 
 .bg1{
-    background-image: url(/assets/backgrounds/bg-workshop-s2.jpg);
+    background-image: url(/lp-ciparoni/assets/backgrounds/bg-workshop-s2.jpg);
     background-position: top right;
     background-size: 100%;
     display: flex;
@@ -165,7 +165,7 @@ p{
 }
 
 .bg3{
-    background-image: url(/assets/backgrounds/bg-bio-othon-1-1.jpg);
+    background-image: url(/lp-ciparoni/assets/backgrounds/bg-bio-othon-1-1.jpg);
     background-position: center;
     
     display: flex;
@@ -218,7 +218,7 @@ footer p {
 
 @media (max-width: 1024px) 
     {.bg1{
-        background-image: url(/assets/backgrounds/bg-workshop-2-mobile.webp);
+        background-image: url(/lp-ciparoni/assets/backgrounds/bg-workshop-2-mobile.webp);
         background-position: 0px -178px;
         background-size: 100%;
         height: auto;
@@ -227,7 +227,7 @@ footer p {
 @media (max-width: 800px) 
     {.bg1{
         background-position-y: -40px;
-        background-image: url(/assets/backgrounds/bg-workshop-2-mobile.webp);
+        background-image: url(/lp-ciparoni/assets/backgrounds/bg-workshop-2-mobile.webp);
         background-size: 100%;
         height: auto;
 }}
@@ -325,7 +325,7 @@ footer p {
 
 @media (max-width: 1024px) {
     .bg3{
-        background-image: url(/assets/backgrounds/bg-bio-othon-mobile.webp);
+        background-image: url(/lp-ciparoni/assets/backgrounds/bg-bio-othon-mobile.webp);
         background-position: top;
         background-size: cover;
         padding: 800px 0 50px 0;
@@ -334,7 +334,7 @@ footer p {
 
 @media (max-width: 800px) {
     .bg3{
-        background-image: url(/assets/backgrounds/bg-bio-othon-mobile.webp);
+        background-image: url(/lp-ciparoni/assets/backgrounds/bg-bio-othon-mobile.webp);
         background-position: top;
         background-size: cover;
         padding: 450px 0 50px 0;
