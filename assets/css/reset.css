@@ -1,0 +1,21 @@
+body {
+    font-family: Sora, Sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+ul, li {
+    padding: 0;
+}
+
+::-webkit-scrollbar{
+    width: 9px;
+    background: #272427;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #e73939;
+    border-radius: 20px;
+}
