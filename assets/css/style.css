@@ -210,6 +210,23 @@ p{
     transition: 0.3s;
 }
 
+.i {
+
+    transition: transform 1s!important;
+}
+
+
+i:hover{
+    transition: transform .6s!important;
+    transform: scale(1.1);
+}
+
+.cta:hover{
+    transition: transform .6s!important;
+    transform: scale(1.1);
+
+}
+
 footer p {
     text-align: center;
     font-size: 12px;
